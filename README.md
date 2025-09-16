@@ -36,6 +36,7 @@
 
 ## ✅ 결과
 <img src='other/test_result.jpg' width = 400>
+
 ---
 
 ## 📝 논문
